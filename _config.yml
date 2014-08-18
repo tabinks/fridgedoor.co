@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+#permalink:        pretty # Default
+permalink:        /blog/:categories/:year/:month/:day/:title
+
+# Setup
+title:            'MPCS 56420'
+tagline:          'Surface Screen Results'
+description:      'bioinformatics for computer scientists'
+url:              http://frankenzyme.com
+baseurl:          /
+# This lets the pagination work with subblog
+blogurl:	  /blog/
+
+#
+author:
+  name:           'T. Andrew Binkowski'
+  url:            'url?'
+
+
+# Blog
+paginate_path:    "blog/page:num"
+paginate:         2
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
