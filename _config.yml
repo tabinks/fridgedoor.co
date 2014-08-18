@@ -10,7 +10,7 @@ permalink:        /blog/:categories/:year/:month/:day/:title
 title:            'MPCS 56420'
 tagline:          'Surface Screen Results'
 description:      'bioinformatics for computer scientists'
-url:              http://frankenzyme.com
+url:              http://fridgedoor.co
 baseurl:          /
 # This lets the pagination work with subblog
 blogurl:	  /blog/
