@@ -1,0 +1,1 @@
+- The sessions can't be pages because pages generate links in the sidebar for this style.
