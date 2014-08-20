@@ -13,7 +13,7 @@ Reading
 -------
 * NIH resources for undering genetics, the [Genetics Home Reference](http://ghr.nlm.nih.gov/handbook.pdf)
 * The definitive definition of bioinformatics from the [NIH Bioinformatics Definition Committee findings](http://www.bisti.nih.gov/CompuBioDef.pdf)
-
+* [Bioinformatics - An Introduction for Computer Scientists](http://cse.spsu.edu/mmurphy/bioinformatics/surveyarticleacm.pdf)
 
 Online Resources
 ----------------
