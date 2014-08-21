@@ -1,0 +1,108 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		37D5E12319A697AC00CE6C8F /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
+		37D5E12419A697AC00CE6C8F /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
+		37D5E12519A697AC00CE6C8F /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
+		37D5E12619A697AC00CE6C8F /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
+		37D5E12719A697AC00CE6C8F /* 404.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		37D5E12819A697AC00CE6C8F /* atom.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = atom.xml; sourceTree = "<group>"; };
+		37D5E12919A697AC00CE6C8F /* blog */ = {isa = PBXFileReference; lastKnownFileType = folder; path = blog; sourceTree = "<group>"; };
+		37D5E12A19A697AC00CE6C8F /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+		37D5E12B19A697B300CE6C8F /* index.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = index.md; sourceTree = "<group>"; };
+		37D5E12C19A697B300CE6C8F /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
+		37D5E12D19A697B300CE6C8F /* NOTES.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = NOTES.txt; sourceTree = "<group>"; };
+		37D5E12E19A697B300CE6C8F /* public */ = {isa = PBXFileReference; lastKnownFileType = folder; path = public; sourceTree = "<group>"; };
+		37D5E12F19A697B300CE6C8F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		37D5E13019A697B300CE6C8F /* sessions */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sessions; sourceTree = "<group>"; };
+		37D5E13119A697B300CE6C8F /* syllabus */ = {isa = PBXFileReference; lastKnownFileType = folder; path = syllabus; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		37D5E11C19A6973D00CE6C8F = {
+			isa = PBXGroup;
+			children = (
+				37D5E12D19A697B300CE6C8F /* NOTES.txt */,
+				37D5E13219A697D300CE6C8F /* Jekyll */,
+				37D5E12619A697AC00CE6C8F /* _posts */,
+				37D5E13019A697B300CE6C8F /* sessions */,
+				37D5E13119A697B300CE6C8F /* syllabus */,
+			);
+			sourceTree = "<group>";
+		};
+		37D5E13219A697D300CE6C8F /* Jekyll */ = {
+			isa = PBXGroup;
+			children = (
+				37D5E12319A697AC00CE6C8F /* _config.yml */,
+				37D5E12B19A697B300CE6C8F /* index.md */,
+				37D5E12919A697AC00CE6C8F /* blog */,
+				37D5E12419A697AC00CE6C8F /* _includes */,
+				37D5E12519A697AC00CE6C8F /* _layouts */,
+				37D5E12E19A697B300CE6C8F /* public */,
+				37D5E12719A697AC00CE6C8F /* 404.html */,
+				37D5E12819A697AC00CE6C8F /* atom.xml */,
+				37D5E12A19A697AC00CE6C8F /* CNAME */,
+				37D5E12F19A697B300CE6C8F /* README.md */,
+				37D5E12C19A697B300CE6C8F /* LICENSE.md */,
+			);
+			name = Jekyll;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		37D5E11D19A6973D00CE6C8F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = 37D5E12019A6973D00CE6C8F /* Build configuration list for PBXProject "fridgedoor.co" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 37D5E11C19A6973D00CE6C8F;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		37D5E12119A6973D00CE6C8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		37D5E12219A6973D00CE6C8F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		37D5E12019A6973D00CE6C8F /* Build configuration list for PBXProject "fridgedoor.co" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37D5E12119A6973D00CE6C8F /* Debug */,
+				37D5E12219A6973D00CE6C8F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 37D5E11D19A6973D00CE6C8F /* Project object */;
+}
