@@ -37,6 +37,7 @@ Biology
 * MOOCS Biology
  - [Preparation for Introductory Biology: DNA to Organisms](https://www.coursera.org/course/introbiology)
  - [Introduction to Biology - The Secret of Life](https://www.edx.org/course/mitx/mitx-7-00x-introduction-biology-secret-1768#.U_ZpT_SMNHY)
+ - [Tales from the Genome](https://www.udacity.com/course/bio110) by 23andme
 
 * Textbooks
  - [Rediscovering Biology](http://www.learner.org/courses/biology/index.html)
