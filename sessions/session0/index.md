@@ -9,6 +9,17 @@ Changsoo Chan project.  Identify cellulase active site.
 [cellulales-in-pdb.txt](cellulases-in-pdb.txt)
 
 
+NCBI Video Vault
+================
+* [NCBI Video Vault](http://www.ncbi.nlm.nih.gov/books/NBK53261/)
+
+PubMed
+======
+* [PubMed Tips](http://www.lib.berkeley.edu/PUBL/SPH/PH270BPubMedTips.pdf)
+* [Using MeSH to Build a Better PubMed Query](http://www.ncbi.nlm.nih.gov/books/NBK121324/)
+
+
+
 Reading
 -------
 * NIH resources for undering genetics, the [Genetics Home Reference](http://ghr.nlm.nih.gov/handbook.pdf)
