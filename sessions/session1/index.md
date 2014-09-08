@@ -26,11 +26,11 @@ Assignment
 5. Find the accession number of a lipocalin protein (e.g., retinol-binding protein, lactoglobulin, any bacterial lipocalin, glycodelin, or odorant-binding protein). First, use Entrez, then UniGene, then OMIM. Which approach is most effective? What is the function of this protein?
 
 6. Three prominent tools for text-based searching of molecular information are:
-- the National Center for Biotechnology Information’s PubMed, Entrez, and OMIM tools (► http://www.ncbi.nlm.nih.gov),
-- the European Bioinformatics Institute (EBI) Sequence Retrieval System (SRS) (► http://srs.ebi.ac.uk) or its related SRS site (► http://www.expasy.ch/srs5/), and
-- DBGET, the GenomeNet tool of Kyoto University, and the University of Tokyo (► http://www.genome.ad.jp/dbget/dbget2.html) literature database LitDB.
+  - the National Center for Biotechnology Information’s PubMed, Entrez, and OMIM tools (► http://www.ncbi.nlm.nih.gov),
+  - the European Bioinformatics Institute (EBI) Sequence Retrieval System (SRS) (► http://srs.ebi.ac.uk) or its related SRS site (► http://www.expasy.ch/srs5/), and
+  - DBGET, the GenomeNet tool of Kyoto University, and the University of Tokyo (► http://www.genome.ad.jp/dbget/dbget2.html) literature database LitDB.
 
-You are interested in learning more about West Nile virus. What happens when you use that query to search each of these three resources?
+  You are interested in learning more about West Nile virus. What happens when you use that query to search each of these three resources?
 
 
 7. You would like to know what articles about viruses have been published in the journal BMC Bioinformatics. Do this search using PubMed.
