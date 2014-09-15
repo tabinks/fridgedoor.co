@@ -17,7 +17,10 @@ Reading
 
 DNA Molecule
 ------------
+- The Central Dogma of Biology [![The Central Dogma of Biology](http://img.youtube.com/vi/9kOGOY7vthk/1.jpg)](http://www.youtube.com/watch?v=9kOGOY7vthk)
 
+
+http://doctorprodigious.wordpress.com/hd-animations/#13gmb
 
 Central Dogma of Molecular Biology
 ----------------------------------
