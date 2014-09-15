@@ -16,17 +16,17 @@ Reading
 * [Bioinformatics - An Introduction for Computer Scientists](http://cse.spsu.edu/mmurphy/bioinformatics/surveyarticleacm.pdf)
 
 DNA Molecule
-------------
-Basepairing 
-Chargaff's Ratios (http://img.youtube.com/vi/HvJlnujmYcg/1.jpg)](http://www.youtube.com/watch?v=HvJlnujmYcg)
-Chromosome 11 Flyover 
-Chromosome Map
-DNA Has Four Units 
-DNA Unzip 
-How DNA is Packaged (Basic) 
-How DNA is Packaged (Advanced)
-How Much DNA Codes for Protein?
-DNA Molecule: Triple Helix
+------------ 
+- Basepairing Explained by James Watson [![Basepairing](http://img.youtube.com/vi/PDeaLxoL75M/1.jpg)](http://www.youtube.com/watch?v=PDeaLxoL75M) 
+- Chargaff's Ratios [![Chargaff's Ratios](http://img.youtube.com/vi/HvJlnujmYcg/1.jpg)](http://www.youtube.com/watch?v=HvJlnujmYcg)
+- Chromosome Map [![Chromosome Map](http://img.youtube.com/vi/iTc5kbjI11Y/1.jpg)](http://www.youtube.com/watch?v=iTc5kbjI11Y)
+- DNA Has Four Units  [![DNA Has Four Units](http://img.youtube.com/vi/Avx8LQdOVWE/1.jpg)](http://www.youtube.com/watch?v=Avx8LQdOVWE)
+- DNA Unzip  [![DNA Unzip](http://img.youtube.com/vi/qYsW0jIFH5A/1.jpg)](http://www.youtube.com/watch?v=qYsW0jIFH5A)
+- How DNA is Packaged (Basic) [![How DNA is Packaged (Basic)](http://img.youtube.com/vi/9kQpYdCnU14/1.jpg)](http://www.youtube.com/watch?v=9kQpYdCnU14)
+- How DNA is Packaged (Advanced) [![How DNA is Packaged (Advanced)](http://img.youtube.com/vi/gbSIBhFwQ4s/1.jpg)](http://www.youtube.com/watch?v=gbSIBhFwQ4s)
+- How Much DNA Codes for Protein? [![How Much DNA Codes for Protein?](http://img.youtube.com/vi/ZvnhZI-GZS4/1.jpg)](http://www.youtube.com/watch?v=ZvnhZI-GZS4)
+- DNA Molecule: Triple Helix [![DNA Molecule: Triple Helix](http://img.youtube.com/vi/pR0zwrLSai4/1.jpg)](http://www.youtube.com/watch?v=pR0zwrLSai4)
+
 
 DNA Replication
 ---------------
