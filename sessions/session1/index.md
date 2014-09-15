@@ -9,6 +9,25 @@ Changsoo Chan project.  Identify cellulase active site.
 [cellulales-in-pdb.txt](cellulases-in-pdb.txt)
 
 
+Reading
+-------
+* NIH resources for understanding genetics, the [Genetics Home Reference](http://ghr.nlm.nih.gov/handbook.pdf)
+* The definitive definition of bioinformatics from the [NIH Bioinformatics Definition Committee findings](http://www.bisti.nih.gov/CompuBioDef.pdf)
+* [Bioinformatics - An Introduction for Computer Scientists](http://cse.spsu.edu/mmurphy/bioinformatics/surveyarticleacm.pdf)
+
+Central Dogma
+-------------
+* [Translation from NCBI](http://www.ncbi.nlm.nih.gov/books/NBK9849/#A1178)
+
+
+Online Resources from Lecture
+-----------------------------
+
+* [The National Center for Biotechnology Information (NCBI)](http://www.ncbi.nlm.nih.gov/)
+* [UCSC](http://www.ebi.ac.uk/)
+* [European Bioinformatics Institute (EBI)](http://genome.ucsc.edu/)
+
+
 Assignment
 ----------
 
@@ -38,17 +57,3 @@ Assignment
 
 
 All assignments should be emailed to abinkowski@uchicago.edu and TA by midnight of the night the assignment is due.  No late assignments will be accepted.
-
-
-Reading
--------
-* NIH resources for undering genetics, the [Genetics Home Reference](http://ghr.nlm.nih.gov/handbook.pdf)
-* The definitive definition of bioinformatics from the [NIH Bioinformatics Definition Committee findings](http://www.bisti.nih.gov/CompuBioDef.pdf)
-* [Bioinformatics - An Introduction for Computer Scientists](http://cse.spsu.edu/mmurphy/bioinformatics/surveyarticleacm.pdf)
-
-Online Resources
-----------------
-
-* [The National Center for Biotechnology Information (NCBI)](http://www.ncbi.nlm.nih.gov/)
-* [UCSC](http://www.ebi.ac.uk/)
-* [European Bioinformatics Institute (EBI)](http://genome.ucsc.edu/)
