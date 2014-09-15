@@ -17,7 +17,9 @@ Reading
 
 Central Dogma
 -------------
-* [Translation from NCBI](http://www.ncbi.nlm.nih.gov/books/NBK9849/#A1178)
+<iframe width="1280" height="720" src="//www.youtube-nocookie.com/embed/9kOGOY7vthk" frameborder="0" allowfullscreen></iframe>
+
+* [Translation book chapter from NCBI](http://www.ncbi.nlm.nih.gov/books/NBK9849/#A1178)
 
 
 Online Resources from Lecture
