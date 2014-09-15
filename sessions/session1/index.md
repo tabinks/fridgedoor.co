@@ -25,7 +25,7 @@ Animated videos showing the central dogma of biology from the the DNA Learning C
 
 - The Central Dogma of Biology [![The Central Dogma of Biology](http://img.youtube.com/vi/9kOGOY7vthk/1.jpg)](http://www.youtube.com/watch?v=9kOGOY7vthk)
 - DNA Transcription (Basic) [![DNA Transcription (Basic)](http://img.youtube.com/vi/5MfSYnItYvg/1.jpg)](http://www.youtube.com/watch?v=5MfSYnItYvg)
--DNA Transcription (Advanced) [![DNA Transcription (Advanced)](http://img.youtube.com/vi/SMtWvDbfHLo/1.jpg)](http://www.youtube.com/watch?v=SMtWvDbfHLo)
+- DNA Transcription (Advanced) [![DNA Transcription (Advanced)](http://img.youtube.com/vi/SMtWvDbfHLo/1.jpg)](http://www.youtube.com/watch?v=SMtWvDbfHLo)
 - Triplet Coding [![Triplet Coding](http://img.youtube.com/vi/rW8NKvQQ8P4/1.jpg)](http://www.youtube.com/watch?v=rW8NKvQQ8P4)
 - RNA Splicing [![RNA Splicing](http://img.youtube.com/vi/aVgwr0QpYNE/1.jpg)](http://www.youtube.com/watch?v=aVgwr0QpYNE)
 - mRNA Splicing [![mRNA Splicing](http://img.youtube.com/vi/hV6NSHjTR1s/1.jpg)](http://www.youtube.com/watch?v=hV6NSHjTR1s)
