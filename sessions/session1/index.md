@@ -17,10 +17,24 @@ Reading
 
 DNA Molecule
 ------------
-- The Central Dogma of Biology [![The Central Dogma of Biology](http://img.youtube.com/vi/9kOGOY7vthk/1.jpg)](http://www.youtube.com/watch?v=9kOGOY7vthk)
+Basepairing 
+Chargaff's Ratios (http://img.youtube.com/vi/HvJlnujmYcg/1.jpg)](http://www.youtube.com/watch?v=HvJlnujmYcg)
+Chromosome 11 Flyover 
+Chromosome Map
+DNA Has Four Units 
+DNA Unzip 
+How DNA is Packaged (Basic) 
+How DNA is Packaged (Advanced)
+How Much DNA Codes for Protein?
+DNA Molecule: Triple Helix
+
+DNA Replication
+---------------
+- Replicating the Helix [![Replicating the Helix](http://img.youtube.com/vi/7wh0m5WRLSU/1.jpg)](http://www.youtube.com/watch?v=7wh0m5WRLSU)
+- Mechanism of Replication (Basic) [![Mechanism of Replication (Basic)](http://img.youtube.com/vi/bee6PWUgPo8/1.jpg)](http://www.youtube.com/watch?v=bee6PWUgPo8)
+- Mechanism of Replication (Advanced) [![Mechanism of Replication (Advanced)](http://img.youtube.com/vi/I9ArIJWYZHI/1.jpg)](http://www.youtube.com/watch?v=I9ArIJWYZHI)
 
 
-http://doctorprodigious.wordpress.com/hd-animations/#13gmb
 
 Central Dogma of Molecular Biology
 ----------------------------------
