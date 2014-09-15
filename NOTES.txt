@@ -1,1 +1,24 @@
 - The sessions can't be pages because pages generate links in the sidebar for this style.
+
+
+
+<!--
+default.html for hyde
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+{% include head.html %}
+
+<body class="theme-base-00">
+
+{% include sidebar.html %}
+
+<div class="content container">
+{{ content }}
+</div>
+
+</body>
+</html>
+-->

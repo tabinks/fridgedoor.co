@@ -80,7 +80,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 15rem; /*18rem; tab */
     text-align: left;
   }
 }
