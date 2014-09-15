@@ -50,13 +50,8 @@ Animated videos showing the central dogma of biology from the the DNA Learning C
 - mRNA Translation (Advanced) [![mRNA Translation (Advanced)](http://img.youtube.com/vi/TfYf_rPWUdY/1.jpg)](http://www.youtube.com/watch?v=TfYf_rPWUdY)
 
 
-
-
--
-8dsTvBaUMvw
-
-
-* [Translation book chapter from NCBI](http://www.ncbi.nlm.nih.gov/books/NBK9849/#A1178)
+Book chapters:
+- [Translation book chapter from NCBI](http://www.ncbi.nlm.nih.gov/books/NBK9849/#A1178)
 
 
 Online Resources from Lecture
