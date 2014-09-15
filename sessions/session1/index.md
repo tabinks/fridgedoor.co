@@ -17,7 +17,23 @@ Reading
 
 Central Dogma
 -------------
-<iframe width="1280" height="720" src="//www.youtube-nocookie.com/embed/9kOGOY7vthk" frameborder="0" allowfullscreen></iframe>
+Animated videos showing the central dogma of biology from the the DNA Learning Center:
+
+- The Central Dogma of Biology [![The Central Dogma of Biology](http://img.youtube.com/vi/9kOGOY7vthk/0.jpg)](http://www.youtube.com/watch?v=9kOGOY7vthk)
+- DNA Transcription (Basic) [![DNA Transcription (Basic)](http://img.youtube.com/vi/5MfSYnItYvg/0.jpg)](http://www.youtube.com/watch?v=5MfSYnItYvg)
+-DNA Transcription (Advanced) [![DNA Transcription (Advanced)](http://img.youtube.com/vi/SMtWvDbfHLo/0.jpg)](http://www.youtube.com/watch?v=SMtWvDbfHLo)
+- Triplet Coding [![Triplet Coding](http://img.youtube.com/vi/rW8NKvQQ8P4/0.jpg)](http://www.youtube.com/watch?v=rW8NKvQQ8P4)
+- RNA Splicing [![RNA Splicing](http://img.youtube.com/vi/aVgwr0QpYNE/0.jpg)](http://www.youtube.com/watch?v=aVgwr0QpYNE)
+- mRNA Splicing [![mRNA Splicing](http://img.youtube.com/vi/hV6NSHjTR1s/0.jpg)](http://www.youtube.com/watch?v=hV6NSHjTR1s)
+- mRNA Translation (Basic) [![mRNA Translation (Basic)](http://img.youtube.com/vi/8dsTvBaUMvw/0.jpg)](http://www.youtube.com/watch?v=8dsTvBaUMvw)
+- mRNA Translation (Advanced) [![mRNA Translation (Advanced)](http://img.youtube.com/vi/TfYf_rPWUdY/0.jpg)](http://www.youtube.com/watch?v=TfYf_rPWUdY)
+
+
+
+
+-
+8dsTvBaUMvw
+
 
 * [Translation book chapter from NCBI](http://www.ncbi.nlm.nih.gov/books/NBK9849/#A1178)
 
