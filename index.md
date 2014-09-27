@@ -41,7 +41,7 @@ allowfullscreen frameborder="0">
     <div class="blink">
   
   
-    <img src="http://centurywalk.org/images/art/hires/36_20110602142338.JPG"/ style="width:300px;margin-top:2000px;">
+    <img src="http://centurywalk.org/images/art/hires/36_20110602142338.JPG" style="width:300px;margin-top:2000px;">
     </div>
     
    </center>
