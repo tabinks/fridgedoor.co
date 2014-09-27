@@ -14,7 +14,7 @@ title:
 
 <body style="background-color:black;text-align:center;">
    
-
+<center>
 
 <p class="message">
 Hello Girls.  You getting close, but remember...I'll be watching you."
@@ -34,11 +34,11 @@ allowfullscreen frameborder="0">
 
 </div>
 
-<center>
+
 
   <img src="http://cdn2.scratch.mit.edu/get_image/gallery/241675_170x100.png?v=1376773938.74"/>
         
-    <div class="blink">
+    <div >
   
   
     <img src="http://centurywalk.org/images/art/hires/36_20110602142338.JPG" style="width:300px;margin-top:2000px;">
