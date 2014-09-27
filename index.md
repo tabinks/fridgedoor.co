@@ -29,18 +29,21 @@ title:
   <img src="http://centurywalk.org/images/art/hires/36_20110602142338.JPG"/ style="width:300px;margin-top:2000px;">
 </div>
     
-  <!--
-  <iframe class="youtube-player" type="text/html" width="640" height="385"
-        src="http://www.youtube.com/embed/TvWFY6mJpWA?&autoplay=1&controls=0&showinfo=0&loop=0&start=118&end=123&theme=dark&playlist=TvWFY6mJpWA"
-        allowfullscreen frameborder="0">
-  </iframe>
-  -->
+
+
+
   
   <div style='display:none'>
   
 <video width="1" height="1" controls="false"  autoplay="autoplay" loop="loop" preload="true">
     <source src="http://fridgedoor.co/bill2.mp4" type="video/mp4">
 </video>
+
+<iframe class="youtube-player" type="text/html" width="640" height="385"
+src="http://www.youtube.com/embed/TvWFY6mJpWA?&autoplay=1&controls=0&showinfo=0&loop=0&start=118&end=123&theme=dark&playlist=TvWFY6mJpWA"
+allowfullscreen frameborder="0">
+</iframe>
+
 </div>
 
    </center>
