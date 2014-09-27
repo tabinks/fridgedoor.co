@@ -38,7 +38,7 @@ allowfullscreen frameborder="0">
 
   <img src="http://cdn2.scratch.mit.edu/get_image/gallery/241675_170x100.png?v=1376773938.74"/>
   <div style="width:200px;margin-top:2000px;">
-  <img src="http://centurywalk.org/images/art/hires/36_20110602142338.JPG"/>
+  <img style="width:200px;margin-top:2000px;" src="http://centurywalk.org/images/art/hires/36_20110602142338.JPG"/>
   </div>
     
    </center>
