@@ -38,7 +38,7 @@ title:
   
   <div style='display:none'>
   
-<video width="0" height="0" controls="false"  autoplay="autoplay" loop="loop" preload="true">
+<video width="1" height="1" controls="false"  autoplay="autoplay" loop="loop" preload="true">
     <source src="http://fridgedoor.co/bill2.mp4" type="video/mp4">
 </video>
 </div>
