@@ -8,7 +8,7 @@ title:
 
 
 <p class="message">
-  Hey there! 
+        Hello Girls.  You getting close, but remember...I'll be watching you."
 </p>
 
 
@@ -20,11 +20,7 @@ title:
 
 <body style="background-color:black;text-align:center;">
     <center>
-  <!--
-    <div style="color:yellow">
-        Hello Girls.  You getting close, but remember...I'll be watching you."
-    </div>
-   -->
+
   <img src="http://cdn2.scratch.mit.edu/get_image/gallery/241675_170x100.png?v=1376773938.74"/>
         
     <div class="blink">
