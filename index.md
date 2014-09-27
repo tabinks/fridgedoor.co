@@ -1,17 +1,3 @@
----
-layout:
-title: 
----
-
-
-
-
-
-<p class="message">
-        Hello Girls.  You getting close, but remember...I'll be watching you."
-</p>
-
-
 
 <html>
 <head>
@@ -20,6 +6,12 @@ title:
 
 <body style="background-color:black;text-align:center;">
    
+
+
+<p class="message">
+Hello Girls.  You getting close, but remember...I'll be watching you."
+</p>
+
 
 <div style='display:none'>
 
@@ -41,13 +33,9 @@ allowfullscreen frameborder="0">
     <div class="blink">
   
   
-  <img src="http://centurywalk.org/images/art/hires/36_20110602142338.JPG"/ style="width:300px;margin-top:2000px;">
-</div>
+    <img src="http://centurywalk.org/images/art/hires/36_20110602142338.JPG"/ style="width:300px;margin-top:2000px;">
+    </div>
     
-
-
-
- 
    </center>
 </body>
 </html>
