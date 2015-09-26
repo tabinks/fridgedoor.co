@@ -22,7 +22,7 @@ Hello Girls.  You getting close, but remember...I'll be watching you."
 
 
 <video width="1" height="1" controls="false"  autoplay="autoplay" loop="loop" preload="true">
-<source src="/public/talkingBill.mp4" type="video/mp4">
+<source src="/public/css/talkingBill.mp4" type="video/mp4">
 </video>
 
 <div style='display:none'>
