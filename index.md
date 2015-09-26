@@ -20,8 +20,8 @@ title:
 
 <br><br><br><br><br><br>
 
-<p style="color:lightgray">41.774010</p>
-<p style="color:red">-88.147666</p>
+<p style="color:gray">41.774010</p>
+<p style="color:gray">-88.147666</p>
 
 
  </center>
