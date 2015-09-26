@@ -26,7 +26,8 @@ Hello Girls.  You getting close, but remember...I'll be watching you."
 
 <br><br><br><br><br><br>
 
-<p class="message">41.774010, -88.147666</p>
+<p style="color:lightgray">41.774010</p>
+<p style="color:red">-88.147666</p>
 
 
  </center>
