@@ -31,7 +31,7 @@ Hello Girls.  You getting close, but remember...I'll be watching you."
 
 
 <video width="1" height="1" controls="false"  autoplay="autoplay" loop="loop" preload="true">
-<source src="http://fridgedoor.co/talkingbill.mp4" type="video/mp4">
+<source src="/public/talkingBill.mp4" type="video/mp4">
 </video>
 
 <iframe class="youtube-player" type="text/html" width="640" height="385"
