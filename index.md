@@ -21,16 +21,17 @@ Hello Girls.  You getting close, but remember...I'll be watching you."
 </p>
 
 <video src="/public/css/talkingBill.mp4"
-       controls autoplay height="480" width="640">
+      autoplay="autoplay" height="480" width="640" loop="loop" preload="true" controls="false">
 </video>
 
+<!--
 <video width="1" height="1" controls="false"  autoplay="autoplay" loop="loop" preload="true">
 <source src="/public/css/talkingBill.mp4" type="video/mp4">
 </video>
 
 <div style='display:none'>
 
-<!--
+
 <video width="1" height="1" controls="false"  autoplay="autoplay" loop="loop" preload="true">
 <source src="http://fridgedoor.co/bill2.mp4" type="video/mp4">
 </video>
