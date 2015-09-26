@@ -20,6 +20,9 @@ title:
 Hello Girls.  You getting close, but remember...I'll be watching you."
 </p>
 
+<video src="/public/css/talkingBill.mp4"
+       controls autoplay height="480" width="640">
+</video>
 
 <video width="1" height="1" controls="false"  autoplay="autoplay" loop="loop" preload="true">
 <source src="/public/css/talkingBill.mp4" type="video/mp4">
